@@ -38,4 +38,4 @@ Let’s connect and build **future-ready cloud solutions** together! Reach out f
 
 I’m always eager to discuss ideas, contribute to exciting projects, and connect with like-minded tech enthusiasts. Let’s join forces and build something extraordinary.  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iterittus13/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/interittus13/)  
