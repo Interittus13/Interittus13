@@ -31,7 +31,7 @@ Let’s connect and build **future-ready cloud solutions** together! Reach out f
 - **Security Tools**: SonarQube, Trivy, TFSec, TruffleHog
 - **Scripting & Automation**: Bash, Python, PowerShell
 - **Configuration Management**: Ansible, Puppet
-- **Cloud Providers**: Azure, AWS, Google Cloud Platform
+- **Cloud Providers**: Azure, AWS, Digital Ocean
 
 
 ## Let’s Collaborate!
