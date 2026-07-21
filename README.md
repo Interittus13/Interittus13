@@ -123,7 +123,7 @@ I design **CI/CD pipelines**, **IaC**, and **cloud-native platforms** where secu
 <table>
   <tr>
     <td valign="top" align="center">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Interittus13&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub stats"/>
+      <img height="165" src="https://github-readme-stats.shion.dev/api?username=Interittus13&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub stats"/>
     </td>
     <td valign="top" align="center">
       <img height="165" src="https://streak-stats.demolab.com/?user=Interittus13&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak"/>
@@ -131,7 +131,7 @@ I design **CI/CD pipelines**, **IaC**, and **cloud-native platforms** where secu
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Interittus13&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top languages"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Interittus13&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top languages"/>
     </td>
   </tr>
 </table>
