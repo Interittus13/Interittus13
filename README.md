@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e40af,100:0891b2&amp;height=180&amp;section=header&amp;text=Arpit%20Gupta&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=DevSecOps%20Engineer%20%7C%20Cloud%20and%20Automation&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e40af,100:0891b2&amp;height=180&amp;section=header&amp;text=Arpit%20Gupta&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=DevOps%20and%20DevSecOps%20Engineer%20%7C%20Cloud%20and%20Automation&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+secure+CI%2FCD+pipelines;Automating+cloud-native+infrastructure;Securing+everything+before+it+ships;Turning+complexity+into+repeatable+systems" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ### 👋 Hey there
 
-I'm **Arpit Gupta** — a **DevSecOps Engineer** from India who cares about one thing above all else: **shipping fast without shipping risk**.
+I'm **Arpit Gupta** — a **DevOps & DevSecOps Engineer** from India who cares about one thing above all else: **shipping fast without shipping risk**.
 
 I design **CI/CD pipelines**, **IaC**, and **cloud-native platforms** where security is baked in from commit to production — not bolted on after an incident.
 
